@@ -1,0 +1,11 @@
+node_modules
+.env
+wrangler.toml
+build
+package-lock.json
+yarn.lock
+keys.json
+.idea
+deployments
+cache
+artifacts
